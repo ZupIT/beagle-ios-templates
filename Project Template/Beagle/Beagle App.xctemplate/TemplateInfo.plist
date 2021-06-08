@@ -194,6 +194,8 @@
                                 <key>Path</key>
                                 <string>DesignSystem/CustomTheme.swift</string>
                             </dict>
+                            <key>SceneDelegate.swift:imports</key>
+							<string>import Beagle</string>
                             <key>SceneDelegate.swift:implementation:properties:window</key>
                             <string>var window: UIWindow? </string>
                             <key>SceneDelegate.swift:implementation:methods:sceneWillConnectToSession:body</key>
