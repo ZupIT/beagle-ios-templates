@@ -2,6 +2,7 @@
 
 To use these templates in your Xcode:
 
-* Create a folder called **Templates** in this directory: ~/Library/Developer/Xcode/
-* Clone this repo inside the **Templates** folder that we just created.
- 
+* Check our documentation: https://docs.usebeagle.io/ and navigate to Plugins -> Xcode Templates or simply download it running on your terminal:
+```shell
+curl http://docs.usebeagle.io/shared/plugin/xcode-templates.sh | sh
+```
